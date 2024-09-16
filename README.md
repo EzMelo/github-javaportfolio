@@ -1,4 +1,2 @@
-Project Title:
-Java Projects,
-Description:
-Key Java activities/projects that show what I learned and show a sample of my capabilities
+To Test:
+Change com in brackets https://github.(com)/EzMelo/github-javaportfolio to dev -> https://github.dev/EzMelo/github-javaportfolio
